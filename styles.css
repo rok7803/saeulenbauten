@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    display: flex;
+    background-image: url('./images/hg-saeulen.jpg');
+    height: 150px;
+    justify-content: flex-end;
+}
+header h1{
+    padding: 1%;
+    color: #fff;
+}
+nav{
+    background-color: #ceb98e;
+}
+nav ul li{
+    display: inline-block;
+    padding: 2px 1rem;
+    border-left: solid #000 1px;
+}
+main{
+    margin: 10px;
+}
+main ul li{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+main p{
+    margin: 10px 0;
+}
+footer{
+    background-color: #ceb98e;
+    padding: 2px 1rem; 
+}
+.shadow{
+    /*background-color: red;*/
+    background-image: url('./images/schatten.png');
+    height: 10px;
+}
