@@ -31,7 +31,8 @@ main p{
 }
 footer{
     background-color: #ceb98e;
-    padding: 2px 1rem; 
+    text-align: center;
+    padding: 2px 0; 
 }
 .shadow{
     /*background-color: red;*/
